@@ -1,0 +1,23 @@
+{
+  "name": "webapp-presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest operations.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MhulzR/webapp-presentation.git"
+  },
+  "author": "Moi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MhulzR/webapp-presentation/issues"
+  },
+  "homepage": "https://github.com/MhulzR/webapp-presentation#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jest": "^21.2.1"
+  }
+}
